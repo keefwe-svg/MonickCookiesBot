@@ -1,0 +1,178 @@
+[
+  {
+    "timestamp": "2025-12-14T15:01:26.102644",
+    "admin": "mower123",
+    "action": "add_money",
+    "target_username": "mozt_1",
+    "amount": 1000,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-14T15:01:52.591345",
+    "admin": "mower123",
+    "action": "add_money",
+    "target_username": "mozt_1",
+    "amount": 312,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-14T15:02:59.141783",
+    "admin": "mower123",
+    "action": "withdraw_money",
+    "target_username": "mozt_1",
+    "amount": 3000,
+    "notes": "Списание средств"
+  },
+  {
+    "timestamp": "2025-12-14T15:05:06.560386",
+    "admin": "mower123",
+    "action": "add_money",
+    "target_username": "mozt_1",
+    "amount": 10000000000,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-14T15:05:19.205666",
+    "admin": "mower123",
+    "action": "withdraw_money",
+    "target_username": "mozt_1",
+    "amount": 10000000000,
+    "notes": "Списание средств"
+  },
+  {
+    "timestamp": "2025-12-14T15:05:30.456754",
+    "admin": "mower123",
+    "action": "add_money",
+    "target_username": "mozt_1",
+    "amount": 1,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-14T21:03:28.189325",
+    "admin": "mower123",
+    "action": "add_money",
+    "target_username": "sigma813",
+    "amount": 100,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-14T21:04:11.957193",
+    "admin": "mower123",
+    "action": "add_money",
+    "target_username": "XnyGsVSvlURE",
+    "amount": 1,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-14T21:04:22.533732",
+    "admin": "mower123",
+    "action": "withdraw_money",
+    "target_username": "XnyGsVSvlURE",
+    "amount": 1,
+    "notes": "Списание средств"
+  },
+  {
+    "timestamp": "2025-12-15T11:35:50.128175",
+    "admin": "makaroska",
+    "action": "add_money",
+    "target_username": "XnyGsVSvlURE",
+    "amount": 1014724892364587623,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-15T11:36:43.966489",
+    "admin": "makaroska",
+    "action": "withdraw_money",
+    "target_username": "XnyGsVSvlURE",
+    "amount": 1014724892364587623,
+    "notes": "Списание средств"
+  },
+  {
+    "timestamp": "2025-12-15T11:37:49.383427",
+    "admin": "makaroska",
+    "action": "add_money",
+    "target_username": "XnyGsVSvlURE",
+    "amount": 1488,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-15T11:39:00.750952",
+    "admin": "makaroska",
+    "action": "withdraw_money",
+    "target_username": "Durov02020",
+    "amount": 1,
+    "notes": "Списание средств"
+  },
+  {
+    "timestamp": "2025-12-15T11:39:19.370979",
+    "admin": "makaroska",
+    "action": "add_money",
+    "target_username": "Durov02020",
+    "amount": 1,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-15T11:39:43.996008",
+    "admin": "makaroska",
+    "action": "add_money",
+    "target_username": "XnyGsVSvlURE",
+    "amount": 1,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-15T11:40:13.118834",
+    "admin": "makaroska",
+    "action": "withdraw_money",
+    "target_username": "XnyGsVSvlURE",
+    "amount": 1489,
+    "notes": "Списание средств"
+  },
+  {
+    "timestamp": "2025-12-25T09:32:59.883697",
+    "admin": "mower123",
+    "action": "add_money",
+    "target_username": "Sigma813",
+    "amount": 2000,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-25T14:59:54.105078",
+    "admin": "mower123",
+    "action": "withdraw_money",
+    "target_username": "mozt_1",
+    "amount": 1314,
+    "notes": "Списание средств"
+  },
+  {
+    "timestamp": "2025-12-25T20:36:38.101344",
+    "admin": "mower123",
+    "action": "add_money",
+    "target_username": "mozt_1",
+    "amount": 36,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2025-12-25T20:37:44.653257",
+    "admin": "HGF_MOZT",
+    "action": "add_money",
+    "target_username": "mozt_1",
+    "amount": 4,
+    "notes": "Пополнение баланса"
+  },
+  {
+    "timestamp": "2026-01-05T17:49:15.278178",
+    "admin": "mower123",
+    "action": "withdraw_money",
+    "target_username": "mozt_1",
+    "amount": 4,
+    "notes": "Списание средств"
+  },
+  {
+    "timestamp": "2026-01-05T17:49:25.564257",
+    "admin": "mower123",
+    "action": "add_money",
+    "target_username": "mozt1",
+    "amount": 4,
+    "notes": "Пополнение баланса"
+  }
+]

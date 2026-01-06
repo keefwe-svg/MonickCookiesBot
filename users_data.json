@@ -1,0 +1,439 @@
+{
+  "6333503076": {
+    "username": "Sigma813",
+    "usdt_balance": 0,
+    "stars_balance": 1835,
+    "total_spent": 2152,
+    "transactions": [
+      {
+        "date": "2025-12-13T13:31:44.350031",
+        "amount": 1,
+        "status": "completed",
+        "type": "test_stars"
+      },
+      {
+        "date": "2025-12-14T12:03:42.721986",
+        "amount": 10,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-14T12:05:11.617459",
+        "amount": 40,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-14T12:05:27.251634",
+        "amount": -2,
+        "status": "completed",
+        "type": "admin_withdraw"
+      },
+      {
+        "date": "2025-12-14T12:05:46.617594",
+        "amount": 1,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-14T21:03:28.135305",
+        "amount": 100,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-25T09:32:59.874487",
+        "amount": 2000,
+        "status": "completed",
+        "type": "admin_add",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-25T13:51:28.158329",
+        "amount": -1,
+        "status": "completed",
+        "type": "cookies_purchase",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-25T13:51:33.740575",
+        "amount": -1,
+        "status": "completed",
+        "type": "cookies_purchase",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-25T13:51:49.136120",
+        "amount": -1,
+        "status": "completed",
+        "type": "cookies_purchase",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-31T23:20:36.028506",
+        "amount": -1,
+        "status": "completed",
+        "type": "cookies_purchase",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-31T23:20:42.439069",
+        "amount": -1,
+        "status": "completed",
+        "type": "cookies_purchase",
+        "cookie_name": null
+      }
+    ],
+    "registration_date": "2025-12-13T13:00:07.309813",
+    "last_active": "2026-01-05T17:07:24.236884",
+    "cookies_purchased": [
+      {
+        "cookie_id": "cookie_6333503076_1766604697_5734",
+        "cookie_name": "Voice chat",
+        "price": 20,
+        "purchase_date": "2025-12-24T22:31:37.777362"
+      },
+      {
+        "cookie_name": "Grow a Garden",
+        "price": 35,
+        "purchase_date": "2025-12-25T09:31:19.775392",
+        "file_name": "Cookies.txt"
+      },
+      {
+        "cookie_name": "Adopt Me",
+        "price": 30,
+        "purchase_date": "2025-12-25T11:12:48.687616",
+        "file_name": "Cookies.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:11:19.999093",
+        "file_name": "akkjhgdfghhhhsf.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:13:49.334194",
+        "file_name": "cookiesw8453789347.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:14:54.166656",
+        "file_name": "3543453.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:17:15.946431",
+        "file_name": "678354734753.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:17:56.610940",
+        "file_name": "5435745735780.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:18:21.924270",
+        "file_name": "qwetgwegqwegqwe.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:19:34.557469",
+        "file_name": "qwepofnqwoen.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:20:11.092265",
+        "file_name": "rtyhetrmywert.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:20:43.032297",
+        "file_name": "qwegqowegm.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:21:15.320767",
+        "file_name": "cookies543878956.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:23:05.806322",
+        "file_name": "y43k5yiw4ejoy34.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:23:36.307942",
+        "file_name": "tywkenyoery.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:24:14.174584",
+        "file_name": "yrkuti7rtuy7546.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:24:44.329408",
+        "file_name": "orjpihskre[skhoi.txt"
+      },
+      {
+        "cookie_name": "Донатки",
+        "price": 15,
+        "purchase_date": "2026-01-05T17:24:50.934379",
+        "file_name": "rqwjeurqwer.txt"
+      }
+    ]
+  },
+  "8118193106": {
+    "username": "Durov02020",
+    "usdt_balance": 0,
+    "stars_balance": 460,
+    "total_spent": 501,
+    "transactions": [
+      {
+        "date": "2025-12-14T13:03:35.446111",
+        "amount": 500,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-15T11:39:00.747920",
+        "amount": -1,
+        "status": "completed",
+        "type": "admin_withdraw"
+      },
+      {
+        "date": "2025-12-15T11:39:19.369982",
+        "amount": 1,
+        "status": "completed",
+        "type": "admin_add"
+      }
+    ],
+    "registration_date": "2025-12-13T14:08:01.109392",
+    "last_active": "2025-12-25T18:54:22.045319",
+    "cookies_purchased": [
+      {
+        "cookie_name": "Steal a Brainrot",
+        "price": 40,
+        "purchase_date": "2025-12-25T19:17:57.397614",
+        "file_name": "Cookies1.txt"
+      }
+    ]
+  },
+  "6905221870": {
+    "username": "XnyGsVSvlURE",
+    "last_active": "2025-12-15T11:40:34.784342",
+    "transactions": [
+      {
+        "date": "2025-12-14T21:04:11.954527",
+        "amount": 1,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-14T21:04:22.531181",
+        "amount": -1,
+        "status": "completed",
+        "type": "admin_withdraw"
+      },
+      {
+        "date": "2025-12-15T11:35:50.117693",
+        "amount": 1014724892364587623,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-15T11:36:43.963568",
+        "amount": -1014724892364587623,
+        "status": "completed",
+        "type": "admin_withdraw"
+      },
+      {
+        "date": "2025-12-15T11:37:49.378957",
+        "amount": 1488,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-15T11:39:43.990657",
+        "amount": 1,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-15T11:40:13.117956",
+        "amount": -1489,
+        "status": "completed",
+        "type": "admin_withdraw"
+      }
+    ],
+    "stars_balance": 0,
+    "total_spent": 1014724892364589113
+  },
+  "8036666749": {
+    "username": "mozt_1",
+    "last_active": "2025-12-14T14:41:40.270877",
+    "transactions": [
+      {
+        "date": "2025-12-14T14:42:22.417787",
+        "amount": 1,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-14T14:49:15.401996",
+        "amount": 3000,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-14T15:01:26.101245",
+        "amount": 1000,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-14T15:01:52.589990",
+        "amount": 312,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-14T15:02:59.140798",
+        "amount": -3000,
+        "status": "completed",
+        "type": "admin_withdraw"
+      },
+      {
+        "date": "2025-12-14T15:05:06.559687",
+        "amount": 10000000000,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-14T15:05:19.205010",
+        "amount": -10000000000,
+        "status": "completed",
+        "type": "admin_withdraw"
+      },
+      {
+        "date": "2025-12-14T15:05:30.456092",
+        "amount": 1,
+        "status": "completed",
+        "type": "admin_add"
+      },
+      {
+        "date": "2025-12-25T14:59:54.100958",
+        "amount": -1314,
+        "status": "completed",
+        "type": "admin_withdraw",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-25T20:31:39.593180",
+        "amount": 1,
+        "status": "completed",
+        "type": "stars_purchase",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-25T20:35:05.654757",
+        "amount": 1,
+        "status": "completed",
+        "type": "stars_purchase",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-25T20:35:15.011406",
+        "amount": 1,
+        "status": "completed",
+        "type": "stars_purchase",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-25T20:35:22.500321",
+        "amount": 1,
+        "status": "completed",
+        "type": "stars_purchase",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-25T20:36:38.087799",
+        "amount": 36,
+        "status": "completed",
+        "type": "admin_add",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-25T20:37:44.641735",
+        "amount": 4,
+        "status": "completed",
+        "type": "admin_add",
+        "cookie_name": null
+      },
+      {
+        "date": "2026-01-05T17:49:15.273260",
+        "amount": -4,
+        "status": "completed",
+        "type": "admin_withdraw",
+        "cookie_name": null
+      }
+    ],
+    "stars_balance": 0,
+    "total_spent": 10000004358,
+    "cookies_purchased": [
+      {
+        "cookie_name": "Steal a Brainrot",
+        "price": 40,
+        "purchase_date": "2025-12-25T20:36:57.420556",
+        "file_name": "Cookies423.txt"
+      }
+    ]
+  },
+  "1640796025": {
+    "username": "mozt1",
+    "last_active": "2025-12-31T23:20:07.378386",
+    "transactions": [
+      {
+        "date": "2025-12-31T23:24:57.416313",
+        "amount": 1,
+        "status": "completed",
+        "type": "stars_purchase",
+        "cookie_name": null
+      },
+      {
+        "date": "2025-12-31T23:26:17.184478",
+        "amount": 1,
+        "status": "completed",
+        "type": "stars_purchase",
+        "cookie_name": null
+      },
+      {
+        "date": "2026-01-05T17:49:25.558503",
+        "amount": 4,
+        "status": "completed",
+        "type": "admin_add",
+        "cookie_name": null
+      }
+    ],
+    "stars_balance": 6,
+    "total_spent": 6
+  },
+  "5061302267": {
+    "username": "sasha_tilny",
+    "last_active": "2026-01-05T17:07:04.531873"
+  }
+}
